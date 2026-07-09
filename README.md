@@ -89,7 +89,7 @@ This automation reduces manual effort and ensures optimal crop growth conditions
 <img width="940" height="425" alt="image" src="https://github.com/user-attachments/assets/e5292c8c-6e4f-4b32-8c28-c4a05f52de33" />
 
  Figure 3: Smart Irrigation and Crop Monitoring System  
-Applications of Smart Agriculture  
+# Applications of Smart Agriculture  
 # 1. Smart Irrigation  
 Smart irrigation systems use soil moisture sensors to determine when crops need water. Water 
 is supplied only when necessary, reducing wastage and improving efficiency.  
