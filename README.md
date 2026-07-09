@@ -33,6 +33,7 @@ connected devices that collect and analyze data in real time.
 With IoT-based systems, farmers can monitor soil moisture, temperature, humidity, and crop 
 health from anywhere. This allows them to make informed decisions regarding irrigation, 
 fertilization, and pest control.
+<img width="940" height="627" alt="image" src="https://github.com/user-attachments/assets/54c084b4-7646-42c9-aa27-ee00129854f6" />
 
 Figure 1: IoT-Based Smart Agriculture System  
 # Components Used in Smart Agriculture  
@@ -64,6 +65,7 @@ Technologies such as Wi-Fi, GSM, and LoRa are commonly used to transmit data.
 Cloud platforms store and analyze data collected from sensors. Farmers can access this 
 information through smartphones, tablets, or computers. Cloud storage also helps maintain 
 historical records for future analysis.
+<img width="940" height="675" alt="image" src="https://github.com/user-attachments/assets/518341d2-8258-44d4-bd12-885d27a3dc36" />
 
 Figure 2: Sensors Used in IoT Based Smart Agriculture 
 
@@ -83,8 +85,10 @@ format through a dashboard or mobile application.
 # Step 4: Automated Actions  
 Based on predefined conditions, automated actions can be performed. For example, if soil 
 moisture falls below a certain level, the irrigation system can automatically turn on.  
-This automation reduces manual effort and ensures optimal crop growth conditions.  
-# Figure 3: Smart Irrigation and Crop Monitoring System  
+This automation reduces manual effort and ensures optimal crop growth conditions. 
+<img width="940" height="425" alt="image" src="https://github.com/user-attachments/assets/e5292c8c-6e4f-4b32-8c28-c4a05f52de33" />
+
+ Figure 3: Smart Irrigation and Crop Monitoring System  
 Applications of Smart Agriculture  
 # 1. Smart Irrigation  
 Smart irrigation systems use soil moisture sensors to determine when crops need water. Water 
